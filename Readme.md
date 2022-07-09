@@ -1,7 +1,7 @@
-## Command Line Tool to Combine Images
+### **Command Line Tool to Combine Images**
 
-- Read Path = `./Files`
-- Write Path = `./Processed`
+- Input Path &nbsp;&nbsp; - `input`
+- Output Path - `output`
 
 <br>
 

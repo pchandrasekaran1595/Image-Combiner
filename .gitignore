@@ -3,3 +3,8 @@ __pycache__
 .vscode
 Processed
 venv
+*.jpg
+*.png
+!Image_1.jpg
+!Image_2.jpg
+output
